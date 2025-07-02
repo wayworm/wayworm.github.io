@@ -60,7 +60,7 @@ pageviews:
 theme_mode:
 
 # Avatar image (sidebar)
-avatar: "/assets/lib/images/me.jpg"
+avatar: "/images/me.jpg"
 
 # Social preview image (for link sharing)
 social_preview_image:
