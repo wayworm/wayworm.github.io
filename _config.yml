@@ -60,7 +60,7 @@ pageviews:
 theme_mode:
 
 # Avatar image (sidebar)
-avatar: "https://media.licdn.com/dms/image/v2/D4E03AQGObicubrThIg/profile-displayphoto-shrink_200_200/B4EZPauJahHkAY-/0/1734541351295?e=1756944000&v=beta&t=VZXpYr_J5mpHdNtXzs-cO8lahNFgPkwnyCDV3gnFqqw"
+avatar: "/assets/lib/images/me.jpg"
 
 # Social preview image (for link sharing)
 social_preview_image:
