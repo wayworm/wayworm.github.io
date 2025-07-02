@@ -1,6 +1,7 @@
 ---
 layout: post
-title: My day with Jekyll
+title: My first day with Jekyll
+tags: Jekyll websites
 ---
 
 Today I learn about Using Jekyll to set up a static site.
