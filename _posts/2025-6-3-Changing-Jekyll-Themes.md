@@ -28,3 +28,5 @@ xcopy _posts %USERPROFILE%\my-blog-backup\_posts /E /I
 
 [This video](https://www.youtube.com/watch?v=m1RYsmOMPLs) is a *good tutorial* on setting up your own.
 
+I hope this helps!
+
