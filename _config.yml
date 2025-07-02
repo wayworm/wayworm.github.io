@@ -26,9 +26,7 @@ social:
   links:
     - https://github.com/wayworm
     - mailto:teddyraymcdermott@gmail.com
-    # Add more links below if needed
-    # - https://linkedin.com/in/your-username
-    # - https://twitter.com/your-username
+    - https://www.linkedin.com/in/teddy-mcdermott-5756bb257/
 
 # Webmaster Tools (SEO Verification)
 webmaster_verifications:
@@ -62,7 +60,7 @@ pageviews:
 theme_mode:
 
 # Avatar image (sidebar)
-avatar: "/assets/img/me.jpg"
+avatar: "https://media.licdn.com/dms/image/v2/D4E03AQGObicubrThIg/profile-displayphoto-shrink_200_200/B4EZPauJahHkAY-/0/1734541351295?e=1756944000&v=beta&t=VZXpYr_J5mpHdNtXzs-cO8lahNFgPkwnyCDV3gnFqqw"
 
 # Social preview image (for link sharing)
 social_preview_image:
