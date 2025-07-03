@@ -1,5 +1,5 @@
 ---
-category: meta
+category: meta 
 tags: [bugfix, Jekyll, liquid, troubleshooting, search]
 math: true
 ---

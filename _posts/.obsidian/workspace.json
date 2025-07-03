@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-6-4-Jekyll-Search-MathJax-Bug.md",
+                "file": "2025-07-03-LifeMap.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-6-4-Jekyll-Search-MathJax-Bug"
+              "title": "2025-07-03-LifeMap"
+            }
+          },
+          {
+            "id": "e0e5410417875a68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-07-03-LifeMap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-03-LifeMap"
             }
           },
           {
@@ -185,15 +199,16 @@
   },
   "active": "ce0b9c400db21ec1",
   "lastOpenFiles": [
+    "Templates/Post.md",
+    "2025-6-4-Jekyll-Search-MathJax-Bug.md",
+    "2025-07-03-LifeMap.md",
+    "2025-07-03-Projects.md",
     "Weather.md",
     "Templates/Weather Template.md",
-    "2025-6-4-Jekyll-Search-MathJax-Bug.md",
     "2025-07-03-Shoes.md",
-    "Templates/Post.md",
     "2025-6-2-My-first-day-with-Jekyll.md",
     "2025-6-3-Changing-Jekyll-Themes.md",
     "2025-07-03-I-love-Oranges.md",
-    "2025-07-03-LifeMap.md",
     "John.md",
     "Templates/Post 1.md",
     "2025-07-03-2025-07-03-Untitled.md",
