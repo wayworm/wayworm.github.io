@@ -4,7 +4,7 @@ title: My first day with Jekyll
 tags: Jekyll websites
 ---
 
-Today I learn about Using Jekyll to set up a static site.
+Today I learnt about Using Jekyll to set up a static site.
 
 I still need to learn out to incorporate LaTex of some kind, to be able to write in some mathematics. Usually [MathJax](https://www.mathjax.org/) is the solution in my experience - it's very useful. I firsted learnt about it when trying to make [Anki](https://www.mathjax.org/) cards during my physics degree. Ultimately, paper flashcards won out in the end. 
 
@@ -14,7 +14,7 @@ I do feel very refreshed being able to write to a site using markdown, having be
 
 Hopefully many more posts to come!
 
-```Python
+```python
 
     def bye(person):
         print(f"Bye, {person}, have a nice day!")
