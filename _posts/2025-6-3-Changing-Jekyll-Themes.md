@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changing Jekyll Themes
-tags: Jekyll websites
+tags: [Jekyll, theme-migration, GitHub Pages, static-sites]
 ---
 
 Today I migrated this blog from using [the Jekyll theme called jekyll-now](https://github.com/barryclark/jekyll-now) to another, 

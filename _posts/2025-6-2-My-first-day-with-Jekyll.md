@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first day with Jekyll
-tags: Jekyll websites
+tags: [Jekyll, static-site, markdown, Obsidian, blogging]
 ---
 
 Today I learnt about Using Jekyll to set up a static site.
