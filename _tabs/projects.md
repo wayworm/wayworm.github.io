@@ -8,4 +8,4 @@ order: 1
 
 Here are some of my projects:
 
-- [**LifeMap**](/posts/LifeMap/) — A Task Management program, for organising your life. [GitHub](https://github.com/wayworm/LifeMap)
+- [**LifeMap**]({{ "/posts/LifeMap/" | relative_url }}) — A Task Management program, for organising your life. [GitHub](https://github.com/wayworm/LifeMap)
