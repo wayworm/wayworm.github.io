@@ -13,13 +13,3 @@ I'd like to use Obsidian for writing these documents, so I'll likely copy my pos
 I do feel very refreshed being able to write to a site using markdown, having been an avid [Obsidian](https://obsidian.md) user for the last couple of months. 
 
 Hopefully many more posts to come!
-
-```python
-
-    def bye(person):
-        print(f"Bye, {person}, have a nice day!")
-
-
-    bye("Visitor")
-
-```
